@@ -148,7 +148,6 @@ The dashboard enables stakeholders to monitor key business metrics, analyze sale
 
 ## 👤 Author
 
-**Raj Khokar**
+**Gaurav Desai**
 
 * LinkedIn: [Add your link]
-* GitHub: [Add your profile link]
