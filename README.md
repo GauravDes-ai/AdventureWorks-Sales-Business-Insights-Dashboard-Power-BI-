@@ -85,11 +85,12 @@ The dashboard enables stakeholders to monitor key business metrics, analyze sale
 
 ### Product Analysis
 
-![Products](Product_Analysis.JPG)
+![Products](Product%20Analysis.JPG)
 
 ### Customer Insights
 
-![Customers](Customer insights.JPG)
+![Customer](Customer%20insights.JPG)
+
 
 ### Profit Trends
 
