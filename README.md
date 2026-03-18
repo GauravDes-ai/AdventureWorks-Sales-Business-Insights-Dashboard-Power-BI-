@@ -91,11 +91,6 @@ The dashboard enables stakeholders to monitor key business metrics, analyze sale
 
 ![Customer](Customer%20insights.JPG)
 
-
-### Profit Trends
-
-![Profit](profit_trends.png)
-
 ---
 
 ## 🔍 Key Insights
