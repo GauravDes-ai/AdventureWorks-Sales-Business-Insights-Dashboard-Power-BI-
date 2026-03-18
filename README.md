@@ -2,10 +2,13 @@
 
 ## ⭐ Project Highlights
 
-✔ Interactive Power BI Dashboard
-✔ End-to-End Data Analysis Workflow
-✔ KPI Tracking & Business Performance Monitoring
-✔ Customer & Product Insights
+✔ Interactive Power BI Dashboard.
+
+✔ End-to-End Data Analysis Workflow.
+
+✔ KPI Tracking & Business Performance Monitoring.
+
+✔ Customer & Product Insights.
 
 ---
 
@@ -81,16 +84,19 @@ The dashboard enables stakeholders to monitor key business metrics, analyze sale
 
 ### Overview
 
-![Overview](overview.JPG)
+![Overview](Images/overview.JPG)
 
 ### Product Analysis
 
-![Products](Product%20Analysis.JPG)
+![Products](Images/Product%20Analysis.JPG)
 
 ### Customer Insights
 
-![Customer](Customer%20insights.JPG)
+![Customer](Images/Customer%20insights.JPG)
 
+### Table Relationship
+
+![Relationship](Images/Relationship.JPG)
 ---
 
 ## 🔍 Key Insights
